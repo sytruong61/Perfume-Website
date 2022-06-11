@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/formcapnhatsanpham_en.properties=UTF-8
+encoding//WebContent/WEB-INF/formcapnhatsanpham_vi.properties=UTF-8
+encoding//WebContent/WEB-INF/views/formcapnhatsanpham.jsp=UTF-8
+encoding//WebContent/resource/css/style.css=UTF-8
+encoding//src/ptithcm/controller/DatHangController.java=UTF-8
+encoding//src/ptithcm/controller/DonHangController.java=UTF-8
+encoding//src/ptithcm/controller/SanPhamController.java=UTF-8
+encoding//src/ptithcm/controller/UserController.java=UTF-8
+encoding/<project>=UTF-8
